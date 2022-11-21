@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Sign - Speed Limit 30.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="47.872767"
+     inkscape:cy="51.64259"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <g
+       id="g4531"
+       transform="translate(0,1.3229103)" />
+    <circle
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path831"
+       cx="13.229166"
+       cy="283.77081"
+       r="13.229166" />
+    <circle
+       r="10.583333"
+       cy="283.77081"
+       cx="13.229167"
+       id="circle833"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:4.23333359;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    <path
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:40px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:'Montserrat Bold';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 16.572373,279.93953 c -1.820333,0 -3.175,1.38654 -3.175,3.83129 0,2.44475 1.354667,3.83129 3.175,3.83129 1.830917,0 3.175,-1.38654 3.175,-3.83129 0,-2.44475 -1.344083,-3.83129 -3.175,-3.83129 z m -9.4914096,0.12712 v 1.37563 h 3.1538126 l -1.523938,1.72548 v 1.13223 h 0.7834148 c 0.9736662,0 1.3864782,0.3491 1.3864782,0.91002 0,0.60325 -0.529228,0.95291 -1.3864782,0.95291 -0.7725833,0 -1.5557499,-0.24381 -2.1166666,-0.66714 l -0.6666259,1.31258 c 0.7196664,0.508 1.7885005,0.79375 2.8256671,0.79375 2.1060836,0 3.0690626,-1.14327 3.0690626,-2.3921 0,-1.09008 -0.677229,-1.91534 -2.010729,-2.127 l 1.672249,-1.90531 v -1.11105 z m 9.4914096,1.32292 c 0.85725,0 1.449524,0.6985 1.449524,2.38125 0,1.68275 -0.592274,2.38125 -1.449524,2.38125 -0.846666,0 -1.439705,-0.6985 -1.439705,-2.38125 0,-1.68275 0.593039,-2.38125 1.439705,-2.38125 z"
+       id="flowRoot835"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

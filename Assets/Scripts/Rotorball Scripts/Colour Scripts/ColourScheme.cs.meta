@@ -1,0 +1,41 @@
+fileFormatVersion: 2
+guid: c4828f3521f724a1d8868cab4c7203f8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - backgroundOneColour: {instanceID: 0}
+  - backgroundOneMat: {instanceID: 0}
+  - UIMainOneColour: {instanceID: 0}
+  - UIMainOneMat: {fileID: 2100000, guid: 035ba15a90d394efa942ad0ed2bf5465, type: 2}
+  - UIMainTwoColour: {instanceID: 0}
+  - UIMainTwoMat: {fileID: 2100000, guid: f8f122de9d0814d3986db0cdc6303448, type: 2}
+  - UIMainThreeColour: {instanceID: 0}
+  - UIMainThreeMat: {instanceID: 0}
+  - UIIconOneColour: {instanceID: 0}
+  - UIIconOneMat: {fileID: 2100000, guid: 4ce4cf51cbdb5456aae65f36a4e3068e, type: 2}
+  - UIIconTwoColour: {instanceID: 0}
+  - UIIconTwoMat: {fileID: 2100000, guid: 9f0acdbd78bf941dba974cad5e710824, type: 2}
+  - UIIconThreeColour: {instanceID: 0}
+  - UIIconThreeMat: {instanceID: 0}
+  - UITextOneColour: {instanceID: 0}
+  - UITextOneMat: {fileID: 2100000, guid: dc7632498493841e2bfcb4fbba6df331, type: 2}
+  - UITextTwoColour: {instanceID: 0}
+  - UITextTwoMat: {fileID: 2100000, guid: 23422eb96029846abb8ed7163120bf0a, type: 2}
+  - UITextThreeColour: {instanceID: 0}
+  - UITextThreeMat: {instanceID: 0}
+  - brickStandardColour: {instanceID: 0}
+  - brickStandardMat: {fileID: 2100000, guid: a67be84fb0a49c94283e800f82fcc814, type: 2}
+  - brickDurableColour: {instanceID: 0}
+  - brickDurableMat: {fileID: 2100000, guid: a471fe82b5e0e054d8321b9aee1ba10f, type: 2}
+  - brickHazardColour: {instanceID: 0}
+  - brickHazardMat: {fileID: 2100000, guid: b310beaa8e41dcf4a8085cee695c0851, type: 2}
+  - brickBlockerColour: {instanceID: 0}
+  - brickBlockerMat: {fileID: 2100000, guid: dd137aed880c34f658f7be2bf607edb7, type: 2}
+  - ballColour: {instanceID: 0}
+  - ballMat: {fileID: 2100000, guid: 23bc7500d4fe54019a35431706c7e3fa, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

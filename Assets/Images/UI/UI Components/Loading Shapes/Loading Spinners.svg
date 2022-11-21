@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Loading Spinners.svg"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\UI\UI Components\Loading Shapes\Loading Spinners (500x500).png"
+   inkscape:export-xdpi="480"
+   inkscape:export-ydpi="480">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="46.076071"
+     inkscape:cy="36.962401"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     transform="translate(0,-238.125)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Text - Path" />
+    <g
+       inkscape:label="Text - Text"
+       id="g859"
+       inkscape:groupmode="layer"
+       style="display:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.84710503px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4461776px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="26.450108"
+         y="151.77902"
+         id="text832"><tspan
+           sodipodi:role="line"
+           id="tspan830"
+           x="151.77902"
+           y="26.450108"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.84710503px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.19632083px;writing-mode:tb-rl;text-orientation:upright;text-anchor:start;stroke-width:0.4461776px">POWER</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Borders"
+     transform="translate(0,-238.125)">
+    <path
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 48.820312 0.013671875 A 50 50 0 0 0 25 6.6992188 L 26.279297 8.9160156 A 47.500001 47.500001 0 0 1 50 2.5 A 47.500001 47.500001 0 0 1 73.728516 8.9003906 L 75 6.6992188 A 50 50 0 0 0 48.820312 0.013671875 z "
+       transform="matrix(0.26458334,0,0,0.26458334,0,238.125)"
+       id="path830" />
+    <path
+       id="path835"
+       d="m 12.917041,264.57966 a 13.229167,13.229167 0 0 1 -6.3024573,-1.76889 l 0.3384807,-0.58652 a 12.567709,12.567709 0 0 0 6.2761026,1.69757 12.567709,12.567709 0 0 0 6.27817,-1.69344 l 0.336413,0.58239 a 13.229167,13.229167 0 0 1 -6.926709,1.76889 z"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5.29166698;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c8aecab018c9954bb07aa023f0cd466, type: 3}
+  m_Name: Endurance
+  m_EditorClassIdentifier: 
+  boosts:
+  - 0.1
+  - 0.14
+  - 0.18
+  - 0.22
+  - 0.26
+  - 0.3
+  - 0.34
+  - 0.38
+  - 0.42
+  - 0.46
+  - 0.5
+  rpForUpgrade: 8813000010270000983a0000204e0000a861000030750000b8880000409c0000c8af000050c30000
+  rpForStock: 100
+  title: Endurance
+  description: The current ball lasts <percent> longer than normal.
+  icon: {fileID: 3286163911610860551, guid: 8576ec14d5310044b8c86e3df7a3d72b, type: 3}

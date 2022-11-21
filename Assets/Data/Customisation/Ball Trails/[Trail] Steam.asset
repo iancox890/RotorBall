@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bd8b5dbc8fd2246b9b7c9256526bdf, type: 3}
+  m_Name: '[Trail] Steam'
+  m_EditorClassIdentifier: 
+  itemScheme: {fileID: 0}
+  itemPrefab: {fileID: 8860198681102123834, guid: 45b2eb626c674ae479caf2197075d2b8,
+    type: 3}
+  itemSprite: {fileID: 21300000, guid: 88f2a25473b5e264187b1c4e539df89f, type: 3}
+  itemPreview: {fileID: 8860198681102123834, guid: 3bf7d89876b2d0b48bd0dff16b0207b1,
+    type: 3}
+  itemPrice: 5000
+  itemName: STEAM
+  itemDescription: This type doesn't run on a PC
+  itemType: 1

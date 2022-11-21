@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Marble - Variation 1.svg"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\Assets\Customisation Features\Ball Explosions\Marbles\Marble - Variation 1 (100x100).png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="4.6993956"
+     inkscape:cy="32.657043"
+     inkscape:document-units="px"
+     inkscape:current-layer="g950"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Chip"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)"
+     style="display:inline">
+    <g
+       id="g934">
+      <g
+         id="g950"
+         transform="translate(2.6984567e-7,2.3152739)">
+        <path
+           style="fill:#008000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 13.229166,268.22638 c -3.9687495,2.64583 -10.5833329,10.58333 -6.6145829,13.22916 6.6145829,2.64584 -3.96875,3.96875 6.6145829,13.22917"
+           id="path823"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccc" />
+        <path
+           sodipodi:nodetypes="ccc"
+           inkscape:connector-curvature="0"
+           id="path827"
+           d="m 13.229166,294.6847 c 3.96875,-2.64583 10.583334,-10.58333 6.614584,-13.22916 -6.614584,-2.64584 3.96875,-3.96875 -6.614584,-13.22917"
+           style="fill:#000080;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+        <path
+           style="fill:#ff0000;fill-rule:evenodd;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 13.229166,268.22638 c 0,11.90625 -3.9687494,13.22916 -2.645833,14.55208 3.96875,3.96875 1.666912,8.41955 2.645833,11.90625 5.994359,-6.22428 2.645834,-6.61458 1.322917,-11.90625 1.139701,-7.22888 0.645953,-10.98001 -1.322917,-14.55208 z"
+           id="path825"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccc" />
+        <circle
+           style="opacity:0.25;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path821"
+           cx="13.229166"
+           cy="281.45554"
+           r="13.229166" />
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fcf1cece4747447058c7289200eb80d5, type: 3}
+  m_Name: Tier Data 3
+  m_EditorClassIdentifier: 
+  Number: 3
+  data:
+  - {fileID: 11400000, guid: 9680f72cd431a22408fbecb550a9998f, type: 2}
+  - {fileID: 11400000, guid: d6f05d30dff204c47bd26eafb8c4956d, type: 2}
+  - {fileID: 11400000, guid: f5b69e0dd6d0a754a98160cb5849d1c4, type: 2}
+  - {fileID: 11400000, guid: 3a99b958341f6e74eab0feaa405dec18, type: 2}
+  - {fileID: 11400000, guid: 5b3ff3ffb34df2041a84fb10d98d6f06, type: 2}
+  - {fileID: 11400000, guid: 62cf32b6c3352624b870ec54f2bfc446, type: 2}
+  - {fileID: 11400000, guid: f646b81b52f638c44966b6c637fa5f61, type: 2}
+  - {fileID: 11400000, guid: 72dda640ca7de964b87371b0408de391, type: 2}
+  - {fileID: 11400000, guid: 28dfbf830752b3340bd91cbc1e869965, type: 2}
+  - {fileID: 11400000, guid: f4034c60f7cecaf4d9ad0c0d73a12f6a, type: 2}
+  - {fileID: 11400000, guid: 479bd022c15802140b85a05c311953ef, type: 2}
+  - {fileID: 11400000, guid: 7917e6a7f3c1a154393363c134f5971a, type: 2}
+  - {fileID: 11400000, guid: eb6f4de1d50972e42bba6b72caf7ece4, type: 2}
+  - {fileID: 11400000, guid: bbbf1cd242d40ac44ab89835a57de41b, type: 2}
+  - {fileID: 11400000, guid: fdd005768ca458041811f759387f9a46, type: 2}
+  - {fileID: 11400000, guid: e50d063abd28d5e48805f993208fa6ff, type: 2}
+  - {fileID: 11400000, guid: dca30f9f30035e0488c297e16cf0f887, type: 2}
+  - {fileID: 11400000, guid: 9b28140738d09234ba9549a8331b736e, type: 2}
+  - {fileID: 11400000, guid: 4808cde14018c3b49aa0ea2a7eb0bbaf, type: 2}
+  - {fileID: 11400000, guid: 6a794dd649111384b8e9c0f91d725a42, type: 2}
+  - {fileID: 11400000, guid: ac32128cba8106645a51e781a9d5e6ca, type: 2}
+  - {fileID: 11400000, guid: 6993662dd69fff74691bf6314f658d7e, type: 2}
+  - {fileID: 11400000, guid: 2844724a8e5a66c47974ee52f7c06043, type: 2}
+  - {fileID: 11400000, guid: a4536c1ab5b53874e8d868f45a3581dc, type: 2}
+  - {fileID: 11400000, guid: 8271fc10a3d4c154581d51e475efa93f, type: 2}
+  - {fileID: 11400000, guid: 93784d2f2dc08964c8e14ab6c9f0101e, type: 2}
+  - {fileID: 11400000, guid: fe5663269b7c319458697a91c66f85b0, type: 2}
+  - {fileID: 11400000, guid: c1898e551627e644c808b88657d946af, type: 2}
+  - {fileID: 11400000, guid: 349c944d52aee7c4bbdfd07ab6b2c73d, type: 2}
+  - {fileID: 11400000, guid: a468a3e2c4f0fe34db907aae961758ef, type: 2}
+  lockLevels: 1
+  bitIndex: 4

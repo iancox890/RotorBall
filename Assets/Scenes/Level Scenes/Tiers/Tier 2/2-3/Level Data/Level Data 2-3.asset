@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0adb6a8df2d354fa68e85705c32098b7, type: 3}
+  m_Name: Level Data 2-3
+  m_EditorClassIdentifier: 
+  description: {fileID: 11400000, guid: 0bea41caae533462ab11a7d65c249c5b, type: 2}
+  scene: {fileID: 11400000, guid: f2cf1f341b7fac04fb4cb561797d8abc, type: 2}
+  modifiers: {fileID: 11400000, guid: 32dc5a48483f7cd448da374953ec2a6d, type: 2}
+  targetTime: 45
+  objectives:
+  - {fileID: 11400000, guid: 27dc94c897237214898417f3c02aa63c, type: 2}
+  - {fileID: 11400000, guid: f12d3ab985409bc4d9bdfabee8d06b86, type: 2}
+  - {fileID: 11400000, guid: 464d593e6761e4743bac02e4264b01b8, type: 2}

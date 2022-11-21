@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Other - Life Ring.svg">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="-65.519123"
+     inkscape:cy="86.813665"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <path
+       style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 50 0 A 50.000001 49.999997 45 0 0 14.644531 14.644531 L 32.333984 32.333984 A 25 25 0 0 1 50 25 L 50 0 z M 85.355469 14.644531 L 67.666016 32.333984 A 25 25 0 0 1 75 50 L 100 50 A 49.999997 50.000001 45 0 0 85.355469 14.644531 z M 0 50 A 49.999997 50.000001 45 0 0 14.644531 85.355469 L 32.333984 67.666016 A 25 25 0 0 1 25 50 L 0 50 z M 67.666016 67.666016 A 25 25 0 0 1 50 75 L 50 100 A 50.000001 49.999997 45 0 0 85.355469 85.355469 L 67.666016 67.666016 z "
+       id="path824"
+       transform="matrix(0.26458333,0,0,0.26458333,0,270.54165)" />
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 50 0 L 50 25 A 25 25 0 0 1 67.666016 32.333984 L 85.355469 14.644531 A 49.999997 50.000001 0 0 0 50 0 z M 14.644531 14.644531 A 50.000001 49.999997 2.8764733e-008 0 0 0 50 L 25 50 A 25 25 0 0 1 32.333984 32.333984 L 14.644531 14.644531 z M 75 50 A 25 25 0 0 1 67.666016 67.666016 L 85.355469 85.355469 A 50.000001 49.999997 2.8764733e-008 0 0 100 50 L 75 50 z M 32.333984 67.666016 L 14.644531 85.355469 A 49.999997 50.000001 0 0 0 50 100 L 50 75 A 25 25 0 0 1 32.333984 67.666016 z "
+       transform="matrix(0.26458333,0,0,0.26458333,0,270.54165)"
+       id="path841" />
+  </g>
+</svg>

@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: c598f4051bac5449a9c91c853d7bdca0
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - rope: {instanceID: 0}
+  - cup: {instanceID: 0}
+  - ballPrefab: {fileID: 3519318500659822696, guid: fee762d6252fc492e802cd01b16b52b0,
+      type: 3}
+  - ballHolder: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

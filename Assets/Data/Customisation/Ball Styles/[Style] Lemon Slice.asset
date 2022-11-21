@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bd8b5dbc8fd2246b9b7c9256526bdf, type: 3}
+  m_Name: '[Style] Lemon Slice'
+  m_EditorClassIdentifier: 
+  itemScheme: {fileID: 0}
+  itemPrefab: {fileID: 8631794640763482719, guid: 50ff7876e9b4d654da2ca03fcd638283,
+    type: 3}
+  itemSprite: {fileID: 3286163911610860551, guid: 14162bec59960624e8572cd18f592c47,
+    type: 3}
+  itemPreview: {fileID: 0}
+  itemPrice: 10000
+  itemName: LEMON SLICE
+  itemDescription: When life gives you lemons...
+  itemType: 0

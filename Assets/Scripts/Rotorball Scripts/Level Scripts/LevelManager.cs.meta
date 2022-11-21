@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 34027507317ad4cf69984f5cb0600fd6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelInfo: {fileID: 11400000, guid: 009a9815b66fc40bd8755b3ab4dfb768, type: 2}
+  - levelCompleteDisplay: {fileID: 248832811282952053, guid: 2fbacb2b4dc481a459edb919c6bd75fd,
+      type: 3}
+  - levelFailureDisplay: {fileID: 5746180101472597779, guid: 5dda632a6a38a0d45b6f05e3e3c20dfc,
+      type: 3}
+  executionOrder: -99
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

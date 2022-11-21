@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Love Heart Sweets - Variation 2.svg"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\Assets\Customisation Features\Ball Explosions\Love Heart Sweets\Love Heart Sweets - Variation 2 (100x100).png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568545"
+     inkscape:cx="2.7840202"
+     inkscape:cy="41.222331"
+     inkscape:document-units="px"
+     inkscape:current-layer="g950"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Chip"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)"
+     style="display:inline">
+    <g
+       id="g934">
+      <g
+         id="g950"
+         transform="translate(2.6984567e-7,2.3152739)">
+        <circle
+           style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           id="path822"
+           cx="13.229166"
+           cy="281.45554"
+           r="13.229166" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path835"
+           d="m 5.5575826,274.57838 a 5.4246263,5.4246263 0 0 0 7.3e-6,7.67158 l 7.6715761,7.67158 7.671578,-7.67158 a 5.4246263,5.4246263 0 0 0 5e-6,-7.67158 5.4246263,5.4246263 0 0 0 -7.671579,1e-5 5.4246263,5.4246263 0 0 0 -7.6715874,-1e-5 z"
+           style="display:inline;opacity:1;fill:#4d4d4d;fill-opacity:1;stroke:none;stroke-width:1.62738788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+        <path
+           style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:1.74363017;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+           d="m 5.0096171,274.08716 a 5.8121003,5.8121003 0 0 0 -2.1e-6,8.21955 l 8.219547,8.21954 8.219554,-8.21955 a 5.8121004,5.8121004 0 0 0 10e-7,-8.21955 5.8121004,5.8121004 0 0 0 -8.219551,10e-6 5.8121003,5.8121003 0 0 0 -8.2195489,0 z m 0.8219511,0.82194 a 4.6496803,4.6496803 0 0 1 6.5756438,10e-6 l 0.82195,0.82195 0.821955,-0.82196 a 4.6496803,4.6496803 0 0 1 6.575645,0 4.6496803,4.6496803 0 0 1 2e-6,6.57565 l -0.821955,0.82196 -6.575643,6.57564 -6.5756447,-6.57565 -0.8219511,-0.82195 a 4.6496803,4.6496803 0 0 1 -2e-6,-6.57565 z"
+           id="rect840"
+           inkscape:connector-curvature="0" />
+      </g>
+    </g>
+  </g>
+</svg>

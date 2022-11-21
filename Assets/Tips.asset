@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 01ab77d1f026ca84f934711a59c37d84, type: 3}
+  m_Name: Tips
+  m_EditorClassIdentifier: 
+  tips:
+  - header: YOU SPIN ME RIGHT ROUND
+    description: Rotate the level by dragging your finger on your device's screen
+      in a circular motion around the Slingshot. The faster you move,  the faster
+      the level does.
+  - header: CAREFUL PLANNING
+    description: Aiming your shot well can increase your chances of success. Always
+      be on the lookout for shots that could land you with a large number of points!
+  - header: CHARGING UP
+    description: The further you pull a Ball back whilst it's in the Slingshot, the
+      more power it will launch with.
+  - header: ONE HIT WONDERS
+    description: Standard Bricks can only take one hit from a Ball before they're
+      destroyed.
+  - header: ENHANCED DURABILITY
+    description: Durable Bricks can take multiple hits before they are destroyed.
+      The number of hits can vary depending on the level.
+  - header: DANGER!
+    description: Hazard Bricks will destroy any Ball that comes into contact with
+      them immediately. Steer clear of these!
+  - header: NO PASSING THROUGH
+    description: Try as you might, Blocker Bricks cannot be destroyed and any Ball
+      that comes into contact with them will simply bounce away.
+  - header: A NEW ROUTE
+    description: If a Blocker Brick is in your way, try aiming your shot to bounce
+      off other areas to get around it.
+  - header: NOW YOU SEE ME...
+    description: Shifter Bricks are only visible for a limited time before they hide,
+      so make sure you destroy them when you can! Don't worry though, they'll show
+      their faces again eventually.
+  - header: BEHOLD! MY FINEST TRICK...
+    description: Swapper Bricks will cycle between various Brick types. These can
+      include Standard, Blocker and Hazard Bricks.
+  - header: MULTIPLICATION EXPERT
+    description: Increase your Score Multiplier quickly by hitting bricks in rapid
+      succession.
+  - header: DID SOMEBODY SAY BOOM?!
+    description: Want to shake things up a bit? Purchase new Ball Explosions from
+      the Store for a crazy firework display!
+  - header: TREND SETTER
+    description: After a new look? Purchase new Ball Styles from the Store for a more
+      expressive appearance!
+  - header: HOT ON YOUR HEELS
+    description: Want to leave something more vibrant in your wake? Purchase new Ball
+      Trails from the Store for a wacky rearward stream!
+  - header: WORLD OF COLOURS
+    description: Fancy seeing things in a new light? Purchase new Colour Schemes from
+      the store to completely change the look of RotorBall!
+  - header: YOU'RE SO RANDOM!
+    description: Can't decide which customisation options to use? Apply the Random
+      option for each desired category of items to randomise your current Ball's style,
+      explosion and trail from your collection.
+  - header: EASY AS 1, 2, 3!
+    description: Each level has three objectives to complete. For each one you complete,
+      you'll earn a one-time payout of extra RotorPoints! Go get 'em, Tiger!
+  - header: MOVING ON UP
+    description: To unlock the next tier of levels, all levels from the previous one
+      must be completed.
+  - header: YOUR KEYS, SIR
+    description: Want instant access to a new tier of levels without having to complete
+      the previous ones? You can purchase an Instant Unlock for all levels and tiers
+      in the store.
+  - header: BASIC ECONOMICS
+    description: Completing levels and objectives will award you with RotorPoints
+      which can be spent in the store on brand-new items and upgrades. The more you
+      earn, the more you can buy!
+  - header: GIVE ME A BOOST!
+    description: Need a helping hand or looking to improve your score? Purchase Boosts
+      from the Store to use in levels and enhance your gameplay!
+  - header: TIME FOR AN UPGRADE!
+    description: Looking to increase the power of your Boosts? Head on over to the
+      Store to purchase permanent Upgrades which enhance the stats of each Boost.
+  - header: PRODUCTIVITY
+    description: It's always good to do two things at once! You could be playing this
+      on the toilet.
+  - header: DID YOU KNOW?
+    description: The aim of the game is to get the total number of bricks to zero
+      whilst keeping the total number of Balls above zero.
+  - header: PRO TIP
+    description: It's not good idea to fail levels.
+  - header: DID YOU KNOW?
+    description: The only reason you're reading this is because you're waiting for
+      the game to load.
+  - header: LOADING...
+    description: Do you like our loading screen? We think it's pretty neat!
+  - header: REAP THE REWARDS
+    description: Bonus Bricks can inhabit the locations of most bricks on the playing
+      field and provide a boosted score and multiplier when hit. When a Bonus Brick
+      is destroyed, it randomly relocates to another suitable location. Target these
+      to score high!
+  - header: I HAVE THE POWER!
+    description: Power Bricks have a persistent pulsing effect and can grant the Ball
+      that hits them a variety of different power-ups.
+  - header: MULTIPLICATION MADNESS
+    description: Hitting a Multiply Power Brick will spawn extra Balls to aid you
+      in your quest for destruction without reducing your Ball Count.
+  - header: POWER SURGE
+    description: Hitting a Surge Power Brick will increase the speed of the Ball which
+      hits it. Keep your eyes on the Ball as it will move much more quickly!
+  - header: THE BIGGER THEY ARE...
+    description: Hitting an Amplify Power Brick will increase the size of the Ball
+      which hits it. Useful for hitting multiple bricks at once, but it might be harder
+      to get to others.
+  - header: SPREADS LIKE WILDFIRE
+    description: Hitting a Chain Power Brick will damage all bricks around it in a
+      specific radius. Try and take out this brick first if it's in a group to score
+      the most points.

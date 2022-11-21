@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: fdc856a3951f7411fa8f715e2dc21721
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - descriptionText: {instanceID: 0}
+  - imageRight: {instanceID: 0}
+  - imageLeft: {instanceID: 0}
+  - tickSprite: {fileID: 21300000, guid: 5912da15bb4da9045bb9c8e676c155ad, type: 3}
+  - crossSprite: {fileID: 21300000, guid: bab8fc8d261493a458ac9e439b28d928, type: 3}
+  executionOrder: 300
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

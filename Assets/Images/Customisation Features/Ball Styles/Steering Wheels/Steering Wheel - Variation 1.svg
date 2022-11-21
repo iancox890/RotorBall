@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Steering Wheel - Variation 1.svg"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\Assets\Customisation Features\Ball Styles\Clock.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 13.229167 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="26.458333 : 13.229167 : 1"
+       inkscape:persp3d-origin="13.229166 : 8.8194447 : 1"
+       id="perspective859" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-0.52609987"
+     inkscape:cy="34.952903"
+     inkscape:document-units="px"
+     inkscape:current-layer="g885"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)">
+    <g
+       id="g4531"
+       transform="translate(0,1.3229103)" />
+    <g
+       id="g885">
+      <path
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 24.724816,280.4005 -11.95509,0.76467 0.918884,5.21128 11.495665,-3.37031 z m -2.375922,1.76226 a 0.99218746,0.99218746 0 0 1 -0.804813,1.14941 0.99218746,0.99218746 0 0 1 -1.149417,-0.80482 0.99218746,0.99218746 0 0 1 0.804836,-1.14942 0.99218746,0.99218746 0 0 1 1.149394,0.80483 z m -2.605627,0.45944 a 1.3229166,1.3229166 0 0 1 -1.073091,1.53253 1.3229166,1.3229166 0 0 1 -1.532544,-1.07308 1.3229166,1.3229166 0 0 1 1.073083,-1.53254 1.3229166,1.3229166 0 0 1 1.532552,1.07309 z"
+         id="path835"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-y="-0.38234168"
+         inkscape:transform-center-x="-5.7478341" />
+      <path
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 1.274081,283.00613 11.495645,3.37032 0.918887,-5.21126 -11.9550885,-0.76469 z m 2.8353548,-0.84336 a 0.99218746,0.99218746 0 0 1 1.1494084,-0.80483 0.99218746,0.99218746 0 0 1 0.8048244,1.14941 0.99218746,0.99218746 0 0 1 -1.1494067,0.80481 0.99218746,0.99218746 0 0 1 -0.8048261,-1.14939 z m 2.6056356,0.45943 a 1.3229166,1.3229166 0 0 1 1.5325428,-1.07309 1.3229166,1.3229166 0 0 1 1.0730992,1.53254 1.3229166,1.3229166 0 0 1 -1.5325428,1.07309 1.3229166,1.3229166 0 0 1 -1.0730992,-1.53254 z"
+         id="rect823"
+         inkscape:connector-curvature="0"
+         inkscape:transform-center-y="-0.38234169"
+         inkscape:transform-center-x="5.7478196" />
+      <path
+         inkscape:transform-center-x="-4.5411779e-006"
+         inkscape:transform-center-y="5.9531285"
+         inkscape:connector-curvature="0"
+         id="path833"
+         d="m 14.552082,295.67707 1.322924,-11.90625 h -5.29167 l 1.322911,11.90625 z m -1.32291,-2.64584 a 0.99218746,0.99218746 0 0 1 -0.992196,-0.99218 0.99218746,0.99218746 0 0 1 0.992194,-0.99219 0.99218746,0.99218746 0 0 1 0.992183,0.99219 0.99218746,0.99218746 0 0 1 -0.992181,0.99218 z m -6e-6,-2.64583 a 1.3229166,1.3229166 0 0 1 -1.322918,-1.32291 1.3229166,1.3229166 0 0 1 1.322916,-1.32292 1.3229166,1.3229166 0 0 1 1.322918,1.32292 1.3229166,1.3229166 0 0 1 -1.322916,1.32291 z"
+         style="opacity:1;fill:#999999;fill-opacity:1;stroke:none;stroke-width:3.96875;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         style="opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="M 50 0 A 49.999997 49.999997 0 0 0 0 50 A 49.999997 49.999997 0 0 0 50 100 A 49.999997 49.999997 0 0 0 100 50 A 49.999997 49.999997 0 0 0 50 0 z M 50 10 A 39.999999 39.999999 0 0 1 90 50 A 39.999999 39.999999 0 0 1 50 90 A 39.999999 39.999999 0 0 1 10 50 A 39.999999 39.999999 0 0 1 50 10 z "
+         transform="matrix(0.26458333,0,0,0.26458333,0,270.54165)"
+         id="path830" />
+      <circle
+         style="opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:2.9765625;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         id="path821"
+         cx="13.229167"
+         cy="283.77081"
+         r="1.984375" />
+    </g>
+  </g>
+</svg>

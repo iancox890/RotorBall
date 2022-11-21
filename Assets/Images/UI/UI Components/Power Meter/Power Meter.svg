@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="200"
+   height="520"
+   viewBox="0 0 52.916665 137.58334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Power Meter.svg"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\Rotorball\UI\UI Components\Power Meter (400x1040).png"
+   inkscape:export-xdpi="192"
+   inkscape:export-ydpi="192">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="51.046184"
+     inkscape:cy="324.23943"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-159.41665)" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Text"
+     transform="translate(0,-127)">
+    <g
+       inkscape:groupmode="layer"
+       id="layer4"
+       inkscape:label="Text - Path">
+      <g
+         aria-label="POWER"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.84710503px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.4461776px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="text865">
+        <path
+           d="m 26.858918,153.45832 h -6.014475 v 12.49297 h 4.211917 v -3.0697 h 1.802558 c 3.480185,0 5.693226,-1.8204 5.693226,-4.71163 0,-2.89124 -2.213041,-4.71164 -5.693226,-4.71164 z m -0.267707,6.1751 H 25.05636 v -2.92693 h 1.534851 c 1.160062,0 1.713322,0.55326 1.713322,1.46347 0,0.9102 -0.55326,1.46346 -1.713322,1.46346 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.84710503px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.19632083px;writing-mode:tb-rl;text-orientation:upright;text-anchor:start;stroke-width:0.4461776px;fill:#ffffff"
+           id="path869" />
+        <path
+           d="m 26.453175,184.28027 c 4.06914,0 7.049607,-2.74845 7.049607,-6.53204 0,-3.78358 -2.980467,-6.53204 -7.049607,-6.53204 -4.06914,0 -7.049606,2.74846 -7.049606,6.53204 0,3.78359 2.980466,6.53204 7.049606,6.53204 z m 0,-3.40879 c -1.552698,0 -2.801995,-1.17791 -2.801995,-3.12325 0,-1.94533 1.249297,-3.12324 2.801995,-3.12324 1.552698,0 2.801996,1.17791 2.801996,3.12324 0,1.94534 -1.249298,3.12325 -2.801996,3.12325 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.84710503px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.19632083px;writing-mode:tb-rl;text-orientation:upright;text-anchor:start;stroke-width:0.4461776px;fill:#ffffff"
+           id="path871" />
+        <path
+           d="m 33.043915,189.54517 -2.302276,7.19239 -2.177347,-7.19239 H 24.69147 l -2.302276,7.10315 -2.177347,-7.10315 H 15.875 l 3.997752,12.49298 h 4.515318 l 2.123805,-6.67482 2.016723,6.67482 h 4.515317 l 3.997752,-12.49298 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.84710503px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.19632083px;writing-mode:tb-rl;text-orientation:upright;text-anchor:start;stroke-width:0.4461776px;fill:#ffffff"
+           id="path873" />
+        <path
+           d="m 25.59498,216.90478 v -1.64193 h 5.282743 v -3.03401 H 25.59498 v -1.46346 h 6.014474 v -3.17679 H 21.454452 v 12.49298 h 10.387015 v -3.17679 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.84710503px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.19632083px;writing-mode:tb-rl;text-orientation:upright;text-anchor:start;stroke-width:0.4461776px;fill:#ffffff"
+           id="path875" />
+        <path
+           d="m 28.304952,238.125 h 4.49747 l -2.623524,-3.85497 c 1.499156,-0.76743 2.355817,-2.12381 2.355817,-3.92637 0,-2.89123 -2.213041,-4.71163 -5.693226,-4.71163 H 20.827015 V 238.125 h 4.211916 v -3.14109 h 1.142215 z m -0.01785,-7.78134 c 0,0.9102 -0.55326,1.46346 -1.713322,1.46346 h -1.534851 v -2.92692 h 1.534851 c 1.160062,0 1.713322,0.55326 1.713322,1.46346 z"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.84710503px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.19632083px;writing-mode:tb-rl;text-orientation:upright;text-anchor:start;stroke-width:0.4461776px;fill:#ffffff"
+           id="path877" />
+      </g>
+    </g>
+    <g
+       inkscape:label="Text - Text"
+       id="g859"
+       inkscape:groupmode="layer"
+       style="display:none">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.84710503px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.4461776px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="26.450108"
+         y="151.77902"
+         id="text832"><tspan
+           sodipodi:role="line"
+           id="tspan830"
+           x="151.77902"
+           y="26.450108"
+           style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:17.84710503px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0.19632083px;writing-mode:tb-rl;text-orientation:upright;text-anchor:start;stroke-width:0.4461776px">POWER</tspan></text>
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Borders"
+     transform="translate(0,-127)">
+    <path
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="m 0,480 v 20 480 20 H 200 V 980 500 480 H 180 20 Z m 20,20 H 180 V 980 H 20 Z"
+       id="rect834"
+       inkscape:connector-curvature="0"
+       transform="scale(0.26458333)" />
+  </g>
+</svg>

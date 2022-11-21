@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bd8b5dbc8fd2246b9b7c9256526bdf, type: 3}
+  m_Name: '[Style] Peace'
+  m_EditorClassIdentifier: 
+  itemScheme: {fileID: 0}
+  itemPrefab: {fileID: 8631794640763482719, guid: 92109e3e5da53b549a88791d863cc7c4,
+    type: 3}
+  itemSprite: {fileID: 3286163911610860551, guid: 276d1aef496c4aa49bec59b11cc7e9ec,
+    type: 3}
+  itemPreview: {fileID: 0}
+  itemPrice: 10000
+  itemName: PEACE
+  itemDescription: Peace. Love. Meditation.
+  itemType: 0

@@ -1,0 +1,314 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Start.unity
+    guid: 8b3bc931f3fb84f6e90cb22888f8bf23
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Welcome.unity
+    guid: 5c9138eef27558e41afefe992b3e5a6d
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Main.unity
+    guid: b89e2a76eb285f347a61783dc34544cf
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Tier_Select.unity
+    guid: 9e5462ef41f59904fa8780c7cc78b3fa
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Level_Select.unity
+    guid: b9f27c0dd4e34418c8af9d8d6b326986
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Level_Details.unity
+    guid: 5f577fc30b4f84569954730620bde901
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Loading.unity
+    guid: 932c9467b072f45c19cab1c92a992646
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Settings.unity
+    guid: 04164abfd86694643ac20507e5a8dfc1
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Store.unity
+    guid: 10ee3e3d3887544fca90fce79f060ec3
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Profile.unity
+    guid: e8939b01e701ffc4995d287e608ba87c
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_Gift.unity
+    guid: b005498569c4c0548b1ddbe90c1444da
+  - enabled: 1
+    path: Assets/Scenes/Menu Scenes/Menu_ControlsTest.unity
+    guid: 8adfddf1c05300144b2b499b962280f7
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-1/Level_1-1.unity
+    guid: a422c0b59f808644d86d2bf5e6e3b32f
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-2/Level_1-2.unity
+    guid: 8861d20724a8d4cf7a1e33247b648e98
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-3/Level_1-3.unity
+    guid: 24c41900033f43c49b6a376e791b66e7
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-4/Level_1-4.unity
+    guid: 27f278bcbbcd51d4884b864c86468ac4
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-5/Level_1-5.unity
+    guid: 38d16c9375f4aa540bdeee8018fe30d0
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-6/Level_1-6.unity
+    guid: 2bedff73c7605504e9e54f50ee70b86d
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-7/Level_1-7.unity
+    guid: 42d22ecdca61ac948881ea15dbe546dc
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-8/Level_1-8.unity
+    guid: 2d080fa8a0108ca41b522fe0c80a9832
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-9/Level_1-9.unity
+    guid: d05ccae5bc7d3cf4aa2edccb8fba3195
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-10/Level_1-10.unity
+    guid: 95e0d640ca65d6a499dc2c519c4ef933
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-11/Level_1-11.unity
+    guid: 5bb668105cfa59946adff3a35e0a9b6c
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-12/Level_1-12.unity
+    guid: 87919ec665f5b7142b33da74c84e2772
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-13/Level_1-13.unity
+    guid: 12c0fc6769f22664caeb9ec99c172244
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-14/Level_1-14.unity
+    guid: d50cb82a4e5e4664692f7d59b009d320
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-15/Level_1-15.unity
+    guid: 7e46f07b321b9b240b529fcc3b996ab4
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-16/Level_1-16.unity
+    guid: 90a0929c043458341ac011100e14e7ec
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-17/Level_1-17.unity
+    guid: bc1258ca2d4078e408643d51e8137a9c
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-18/Level_1-18.unity
+    guid: e61bc95aa5f991341a01658ca24b7db3
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-19/Level_1-19.unity
+    guid: e365c20629b89f647ab4c975bf37fb63
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-20/Level_1-20.unity
+    guid: 0485b597ba270c945822a9e1a7fdc79e
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-21/Level_1-21.unity
+    guid: ec67408d82b832b4d981b1b7005eea0f
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-22/Level_1-22.unity
+    guid: 5b7e5cf5ad8a26b429b9ec17e6be7580
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-23/Level_1-23.unity
+    guid: 0b930a471e844d949b5fbd28eb45595f
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-24/Level_1-24.unity
+    guid: 8e5532cd3e217b34dbddce9c79d01b3a
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-25/Level_1-25.unity
+    guid: 578344371d2ce6440a5e79d777b72f30
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-26/Level_1-26.unity
+    guid: 7a11cf8d610939c458b18bfecfc06f52
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-27/Level_1-27.unity
+    guid: 61d1d9195ad7c774f8c1e093c50b7b7a
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-28/Level_1-28.unity
+    guid: fab947430f8992c42b5f01e44b49a04e
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-29/Level_1-29.unity
+    guid: 76f51eac64bee2744b207a4123ff0da7
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 1/1-30/Level_1-30.unity
+    guid: 2c93ad410c842d04992a7b0fc9cde889
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-1/Level_2-1.unity
+    guid: 79e28aa95ce7340478354e3cb7092898
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-2/Level_2-2.unity
+    guid: 56b4082bccdc87b4f8054f7ba716186e
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-3/Level_2-3.unity
+    guid: 48e1dcad044fec34cbfbca4f13613b0a
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-4/Level_2-4.unity
+    guid: 4cdbd248cce17054889f79ffa44da72c
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-5/Level_2-5.unity
+    guid: 3ef4858fa47886642abf08a8962c25ef
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-6/Level_2-6.unity
+    guid: 9753a84323e93ec48a2b797d2bccbe9f
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-7/Level_2-7.unity
+    guid: d78605f9b11da1f4fadaf10816950563
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-8/Level_2-8.unity
+    guid: f982fa38d80b19441bf493eb9bf1b551
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-9/Level_2-9.unity
+    guid: 94d4ed5fec7d9ff408edb2157971a4a8
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-10/Level_2-10.unity
+    guid: 0dfcb2a998c37ec4b9c7a4a2d8aac815
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-11/Level_2-11.unity
+    guid: a60edf114589335438929f1f99a5b6f4
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-12/Level_2-12.unity
+    guid: 1e1e19998ac015d47976a653e41f36ca
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-13/Level_2-13.unity
+    guid: 68bb43a162b60164082b57a12096fe78
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-14/Level_2-14.unity
+    guid: 35f312bd8cee8fb43b3473711a8e9039
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-15/Level_2-15.unity
+    guid: b07fd5beb705e5a468d6800cdfcf28f8
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-16/Level_2-16.unity
+    guid: 87341bccc06ccd64399e12f03db30ba6
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-17/Level_2-17.unity
+    guid: 91f12ace469c29045b5f0e2d6c2f781b
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-18/Level_2-18.unity
+    guid: 6deabe3075619ba43a59834b87d1735c
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-19/Level_2-19.unity
+    guid: 7b47a4463ea3dfd49b19d09b2748ddc1
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-20/Level_2-20.unity
+    guid: 3f90f73e2149f66418e6df5285c5f2a4
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-21/Level_2-21.unity
+    guid: 4f99f051db0a3d640a08658a390f5070
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-22/Level_2-22.unity
+    guid: a2e527961643059418f48519aca83472
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-23/Level_2-23.unity
+    guid: 15f3bb161cb61b7479453d941ac8fc3c
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-24/Level_2-24.unity
+    guid: dc5e0359efe12b14aa163c4f36dda1be
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-25/Level_2-25.unity
+    guid: cbee680cb4d92044ea62af7a00cb3807
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-26/Level_2-26.unity
+    guid: 46a2eb1857d7cf64e86b350aa8b2e25a
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-27/Level_2-27.unity
+    guid: 34b789954667f034e8a0037452e817da
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-28/Level_2-28.unity
+    guid: e6b49ef8615d3eb4da2c382f30fa71b9
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-29/Level_2-29.unity
+    guid: 983ce7cdcc6635c4f8cc5434002fbe1e
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 2/2-30/Level_2-30.unity
+    guid: ff43f693407d7eb47914e642a7f96b13
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-1/Level_3-1.unity
+    guid: e862086853dd3dc4385f984275f6bbc5
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-2/Level_3-2.unity
+    guid: fcc79923d2bbf214eb6792887fcd2207
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-3/Level_3-3.unity
+    guid: 81b04521d93e470418ebe95fef6156d0
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-4/Level_3-4.unity
+    guid: b9d8cd6642453504c84ef1c24b7b307e
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-5/Level_3-5.unity
+    guid: 5f64a08ffbd2d57478b77609872087b2
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-6/Level_3-6.unity
+    guid: c336b56b321ee6348baf137a1f0adb4b
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-7/Level_3-7.unity
+    guid: be6c9f11e54e4b4439f530a358b05fe7
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-8/Level_3-8.unity
+    guid: 4bd107fa0e4d31f4697b24262a6726af
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-9/Level_3-9.unity
+    guid: cf47f411a107019468b0ba2f661ef317
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-10/Level_3-10.unity
+    guid: 4319556e3c01bb64aa428fa7fde9298b
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-11/Level_3-11.unity
+    guid: 7edf3e91f406bde45a2a4bd0033cbdbb
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-12/Level_3-12.unity
+    guid: d66419ed9f7f2a34b808821649ea9ccb
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-13/Level_3-13.unity
+    guid: 9cb075176c6a3db4ca0741bf2fbd6e13
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-14/Level_3-14.unity
+    guid: 052dcdc98501d2447828dd6a3dc5ab0b
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-15/Level_3-15.unity
+    guid: 31e222dc623000a4bb56da41f5c00751
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-16/Level_3-16.unity
+    guid: 718fffed661de924b843b60a3fc56894
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-17/Level_3-17.unity
+    guid: 73a6ad1c026f8df4aa7b7095fd3b6bfc
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-18/Level_3-18.unity
+    guid: 957bc80d2cbf1e346b452c69b4e9bdbf
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-19/Level_3-19.unity
+    guid: ffc904fa6dffa6c49963ea8f0873e546
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-20/Level_3-20.unity
+    guid: 207a2b3c8ea68f2488c74d56b21c6a91
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-21/Level_3-21.unity
+    guid: 5e52d8dda7d6b824db00e0c5bc515540
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-22/Level_3-22.unity
+    guid: d6798a859e6bff24d8e6c4a12bd7fb52
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-23/Level_3-23.unity
+    guid: 4ce8fe6bb1d01034ba338dbf49a720e7
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-24/Level_3-24.unity
+    guid: 03bc3c0e7d80ff942b7c1fc04403c1cc
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-25/Level_3-25.unity
+    guid: 62d941707c5d1ea41a04aa38022dfb25
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-26/Level_3-26.unity
+    guid: 8c6ecda8c7e26b74680dcfb0180228e4
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-27/Level_3-27.unity
+    guid: f3eae623a0eb7d94a9215d48bbbc330f
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-28/Level_3-28.unity
+    guid: 41fe1317e3d970c4b847ca7b58c1cac0
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-29/Level_3-29.unity
+    guid: c8d6e6bfd418f864bad6bd280b8006fa
+  - enabled: 1
+    path: Assets/Scenes/Level Scenes/Tiers/Tier 3/3-30/Level_3-30.unity
+    guid: 06031ed366849654d922a2fec41897df
+  m_configObjects: {}

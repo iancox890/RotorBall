@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Flower - Variation 1 - Purple.svg"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\Assets\Customisation Features\Ball Explosions\Flowers\Flower - Variation 1 (100x100).png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="37.545404"
+     inkscape:cy="49.542953"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Petals">
+    <ellipse
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path830"
+       cx="13.229166"
+       cy="7.2760415"
+       rx="3.96875"
+       ry="7.2760415"
+       inkscape:transform-center-y="-5.9536411" />
+    <ellipse
+       inkscape:transform-center-y="-2.9768205"
+       ry="7.2760415"
+       rx="3.96875"
+       cy="12.117994"
+       cx="-4.842658"
+       id="ellipse843"
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       transform="rotate(-60)"
+       inkscape:transform-center-x="5.1560042" />
+    <ellipse
+       inkscape:transform-center-x="5.1560047"
+       transform="rotate(-120)"
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse845"
+       cx="-18.071823"
+       cy="-1.1116881"
+       rx="3.96875"
+       ry="7.2760415"
+       inkscape:transform-center-y="2.9768196" />
+    <ellipse
+       inkscape:transform-center-y="5.9536406"
+       ry="7.2760415"
+       rx="3.96875"
+       cy="-19.183323"
+       cx="-13.229165"
+       id="ellipse847"
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       transform="scale(-1)" />
+    <ellipse
+       transform="rotate(120)"
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="ellipse849"
+       cx="4.8426585"
+       cy="-24.025274"
+       rx="3.96875"
+       ry="7.2760415"
+       inkscape:transform-center-y="2.9768201"
+       inkscape:transform-center-x="-5.1560036" />
+    <ellipse
+       inkscape:transform-center-x="-5.1560038"
+       inkscape:transform-center-y="-2.9768207"
+       ry="7.2760415"
+       rx="3.96875"
+       cy="-10.795592"
+       cx="18.071823"
+       id="ellipse851"
+       style="opacity:1;fill:#800080;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       transform="rotate(60)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Centre"
+     style="display:inline">
+    <circle
+       style="opacity:1;fill:#ffff00;fill-opacity:1;stroke:none;stroke-width:5.29166651;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       id="path828"
+       cx="13.229167"
+       cy="13.229167"
+       r="5.2916665" />
+  </g>
+</svg>

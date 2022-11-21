@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 26.458333 26.458334"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="Popcorn - Variation 3.svg"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\Assets\Customisation Features\Ball Explosions\Popcorn\Popcorn - Variation 3 (100x100).png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4.0000002"
+     inkscape:cx="50.97326"
+     inkscape:cy="19.430178"
+     inkscape:document-units="px"
+     inkscape:current-layer="g950"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="958"
+     inkscape:window-height="1008"
+     inkscape:window-x="-7"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0">
+    <inkscape:grid
+       type="xygrid"
+       id="grid815" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Chip"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-270.54165)"
+     style="display:inline">
+    <g
+       id="g934">
+      <g
+         id="g950"
+         transform="translate(2.6984567e-7,2.3152739)">
+        <path
+           style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.2693184px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 10.035092,294.44784 c 2.693183,0 4.165552,-3.16513 4.039776,-6.73296 0,-1.34659 3.203798,1.28185 5.386367,2.69319 4.039777,2.69318 8.079553,-8.07956 6.732961,-9.42614 -1.346592,-1.3466 -4.039776,-1.3466 -4.039776,-4.03979 1.346592,-2.69318 2.693184,-4.03977 1.346592,-6.73295 -1.346592,-2.69319 -5.386368,4.03976 -8.079552,1.34659 -1.346592,-1.3466 -9.4261442,-5.38637 -13.4659202,-1.34659 -4.0397761,4.03977 -0.9256169,8.0656 1.3465919,10.77274 1.346592,1.34658 -4.03977597,6.73295 -2.69318399,9.42614 2.96250249,4.30909 4.03977599,4.03977 9.42614429,4.03977"
+           id="path825"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccc" />
+      </g>
+    </g>
+  </g>
+</svg>

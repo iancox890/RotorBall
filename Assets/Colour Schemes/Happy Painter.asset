@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c4828f3521f724a1d8868cab4c7203f8, type: 3}
+  m_Name: Happy Painter
+  m_EditorClassIdentifier: 
+  background:
+    colourMat: {fileID: 2100000, guid: 17a35762701a84301b9c0b42db5a058f, type: 2}
+    objectMat: {fileID: 2100000, guid: bc67803b8375b4c61b9bab294b63df3b, type: 2}
+  backgroundPatternOne:
+    colourMat: {fileID: 2100000, guid: 2c1aa67361b2d2e4b9669426d48b5b91, type: 2}
+    objectMat: {fileID: 2100000, guid: 77ef823b27eab434a91a02f5da007fd8, type: 2}
+  backgroundPatternTwo:
+    colourMat: {fileID: 2100000, guid: 9cec2645379526142b6d9b63a47e7c48, type: 2}
+    objectMat: {fileID: 2100000, guid: c5d8f7a57c33a8545a2c3657d605e89a, type: 2}
+  gradient:
+    colourMat: {fileID: 2100000, guid: 5227f04da49e75f47958cbbe7830e1cd, type: 2}
+    objectMat: {fileID: 2100000, guid: 5295fb090cf0e0e4789e3fd91161a52a, type: 2}
+  UIGradient:
+    colourMat: {fileID: 2100000, guid: 5227f04da49e75f47958cbbe7830e1cd, type: 2}
+    objectMat: {fileID: 2100000, guid: 4c283c9155746f6489257e64de2bda50, type: 2}
+  backgroundBricksOne:
+    colourMat: {fileID: 2100000, guid: d4f1e63d61d873448860cdaacd2c79c8, type: 2}
+    objectMat: {fileID: 2100000, guid: f8434ead2b8302741a047eef9ea5e1a2, type: 2}
+  backgroundBricksTwo:
+    colourMat: {fileID: 2100000, guid: 64034944fa2f04c4dabbaf2f3441813a, type: 2}
+    objectMat: {fileID: 2100000, guid: b02b4ca21133afc40b76e2fcab8bd565, type: 2}
+  backgroundBricksThree:
+    colourMat: {fileID: 2100000, guid: 2c1aa67361b2d2e4b9669426d48b5b91, type: 2}
+    objectMat: {fileID: 2100000, guid: 9cbbbddf1c03154438c269b21c00ad79, type: 2}
+  UIMainOne:
+    colourMat: {fileID: 2100000, guid: a02f2b8274e79014ea635eca8fac0f2e, type: 2}
+    objectMat: {fileID: 2100000, guid: 035ba15a90d394efa942ad0ed2bf5465, type: 2}
+  UIMainTwo:
+    colourMat: {fileID: 2100000, guid: 87d460db3366446cab3f35528145501e, type: 2}
+    objectMat: {fileID: 2100000, guid: f8f122de9d0814d3986db0cdc6303448, type: 2}
+  UIMainThree:
+    colourMat: {fileID: 2100000, guid: d2fa18b6613aa24499b1b88b20ddf044, type: 2}
+    objectMat: {fileID: 2100000, guid: 01a9e47c0cb5d4f5eae760785c7a854a, type: 2}
+  UIIconOne:
+    colourMat: {fileID: 2100000, guid: 87d460db3366446cab3f35528145501e, type: 2}
+    objectMat: {fileID: 2100000, guid: 4ce4cf51cbdb5456aae65f36a4e3068e, type: 2}
+  UIIconTwo:
+    colourMat: {fileID: 2100000, guid: 87d460db3366446cab3f35528145501e, type: 2}
+    objectMat: {fileID: 2100000, guid: 9f0acdbd78bf941dba974cad5e710824, type: 2}
+  UIIconThree:
+    colourMat: {fileID: 2100000, guid: 87d460db3366446cab3f35528145501e, type: 2}
+    objectMat: {fileID: 2100000, guid: 5233898980b0b43939840bcfaf4ef59f, type: 2}
+  UITextOne:
+    colourMat: {fileID: 2100000, guid: 87d460db3366446cab3f35528145501e, type: 2}
+    objectMat: {fileID: 2100000, guid: dc7632498493841e2bfcb4fbba6df331, type: 2}
+  UITextTwo:
+    colourMat: {fileID: 2100000, guid: 2ebbd2890b0cd494b88d2fdde3ef6fd5, type: 2}
+    objectMat: {fileID: 2100000, guid: 23422eb96029846abb8ed7163120bf0a, type: 2}
+  UITextThree:
+    colourMat: {fileID: 2100000, guid: 5a103fb4000ec43419d37f8ad0ee0725, type: 2}
+    objectMat: {fileID: 2100000, guid: 906549822c4254b57b755b9a4265dde2, type: 2}
+  brickStandard:
+    colourMat: {fileID: 2100000, guid: a02f2b8274e79014ea635eca8fac0f2e, type: 2}
+    objectMat: {fileID: 2100000, guid: a67be84fb0a49c94283e800f82fcc814, type: 2}
+  brickDurable:
+    colourMat: {fileID: 2100000, guid: 79def534e00b69f49ad976037c5ddb53, type: 2}
+    objectMat: {fileID: 2100000, guid: a471fe82b5e0e054d8321b9aee1ba10f, type: 2}
+  brickHazard:
+    colourMat: {fileID: 2100000, guid: 5a103fb4000ec43419d37f8ad0ee0725, type: 2}
+    objectMat: {fileID: 2100000, guid: b310beaa8e41dcf4a8085cee695c0851, type: 2}
+  brickBlocker:
+    colourMat: {fileID: 2100000, guid: 2ebbd2890b0cd494b88d2fdde3ef6fd5, type: 2}
+    objectMat: {fileID: 2100000, guid: dd137aed880c34f658f7be2bf607edb7, type: 2}
+  brickPowerupInner:
+    colourMat: {fileID: 2100000, guid: 5f95a4a8d28cae64fa652e84c704be4a, type: 2}
+    objectMat: {fileID: 2100000, guid: 45db58b70b26a4fcdba72bf1c15ccfb1, type: 2}
+  brickPowerupOuter:
+    colourMat: {fileID: 2100000, guid: a0fbbe5b2d672e04eb993f7166ecc12f, type: 2}
+    objectMat: {fileID: 2100000, guid: c97beea5961e943269d3539a81addbb5, type: 2}
+  brickBonus:
+    colourMat: {fileID: 2100000, guid: 72f81a6d2147a5542803470b010b7281, type: 2}
+    objectMat: {fileID: 2100000, guid: 8e5872a07cb4d4c3697e907a42081ac0, type: 2}
+  ball:
+    colourMat: {fileID: 2100000, guid: 87d460db3366446cab3f35528145501e, type: 2}
+    objectMat: {fileID: 2100000, guid: 23bc7500d4fe54019a35431706c7e3fa, type: 2}
+  ballExplosion:
+    colourMat: {fileID: 2100000, guid: 87d460db3366446cab3f35528145501e, type: 2}
+    objectMat: {fileID: 2100000, guid: 40a19b13f72596b46ae981d7e1b794e8, type: 2}
+  ballTrail:
+    colourMat: {fileID: 2100000, guid: 87d460db3366446cab3f35528145501e, type: 2}
+    objectMat: {fileID: 2100000, guid: eff1c8907ba9cb641b56391473394f8d, type: 2}
+  highlightedDot:
+    colourMat: {fileID: 2100000, guid: 970ea415c3a6b724db68021cb697976f, type: 2}
+    objectMat: {fileID: 2100000, guid: 6b59304dd674d4ed48e1cefce31eb86e, type: 2}
+  slingshot:
+    colourMat: {fileID: 2100000, guid: 2ebbd2890b0cd494b88d2fdde3ef6fd5, type: 2}
+    objectMat: {fileID: 2100000, guid: 0e094702ca7db47799c62484afd058c8, type: 2}

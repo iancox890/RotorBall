@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 0adb6a8df2d354fa68e85705c32098b7
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - description: {fileID: 11400000, guid: 0bea41caae533462ab11a7d65c249c5b, type: 2}
+  - scene: {instanceID: 0}
+  - objectiveOne: {instanceID: 0}
+  - objectiveTwo: {instanceID: 0}
+  - objectiveThree: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

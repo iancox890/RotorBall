@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 133867b43c1613e4890ef880dbfd7f6d, type: 3}
+  m_Name: AchievementData
+  m_EditorClassIdentifier: 
+  achievements:
+  - name: Hey Big Spender
+    isStat: 1
+    statName: stats.RPSpent
+    threshold: 1000
+    orderPosition: 0
+  - name: Tools of Destruction
+    isStat: 1
+    statName: stats.BoostsUsed
+    threshold: 20
+    orderPosition: 1
+  - name: You Spin Me Right Round
+    isStat: 1
+    statName: stats.TotalRotations
+    threshold: 20
+    orderPosition: 2
+  - name: Practice Makes Perfect
+    isStat: 0
+    statName: 
+    threshold: 0
+    orderPosition: 3

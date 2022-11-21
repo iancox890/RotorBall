@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\UI\UI Icons\Rotating Arrows Icon\Rotating Arrows Icon (1000x1000).png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960"
+   sodipodi:docname="Rotating Arrows Icon.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="9.4813727"
+     inkscape:cy="85.668335"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <g
+       id="g848"
+       transform="translate(11.0256,-14.14468)"
+       style="fill:#ffffff">
+      <path
+         style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15.58977604;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+         d="m 26.000215,966.50683 c -0.498131,0 -0.996114,0.19074 -1.377807,0.57244 -0.763387,0.76338 -0.763387,1.99223 0,2.75561 l 8.228783,8.22879 A 38.974441,38.974441 0 0 0 0,1016.5068 a 38.974441,38.974441 0 0 0 38.974441,38.9744 38.974441,38.974441 0 0 0 1.088544,-0.055 l 10.507875,10.5079 c 0.763387,0.7634 1.992227,0.7634 2.755614,0 0.763387,-0.7634 0.763387,-1.9922 0,-2.7556 l -8.228783,-8.2288 a 38.974441,38.974441 0 0 0 32.851191,-38.4431 38.974441,38.974441 0 0 0 -38.974441,-38.97446 38.974441,38.974441 0 0 0 -1.088544,0.0548 L 27.378023,967.07927 c -0.381694,-0.3817 -0.879677,-0.57244 -1.377808,-0.57244 z m 12.974226,14.92295 a 35.076997,35.076997 0 0 1 35.076997,35.07702 35.076997,35.076997 0 0 1 -27.56376,34.2183 l 6.838796,-6.8373 c 0.763387,-0.7633 0.763387,-1.9937 0,-2.7571 -0.763387,-0.7634 -1.992227,-0.7634 -2.755614,0 l -10.410439,10.4104 a 35.076997,35.076997 0 0 1 -1.18598,0.043 35.076997,35.076997 0 0 1 -35.0769969,-35.077 35.076997,35.076997 0 0 1 27.5637599,-34.21836 l -6.838796,6.83727 c -0.763387,0.76338 -0.763387,1.99375 0,2.75714 0.763387,0.76339 1.992228,0.76339 2.755615,0 l 10.410438,-10.41044 a 35.076997,35.076997 0 0 1 1.18598,-0.0426 z"
+         id="path819"
+         inkscape:connector-curvature="0" />
+    </g>
+  </g>
+</svg>

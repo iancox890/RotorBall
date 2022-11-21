@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bd8b5dbc8fd2246b9b7c9256526bdf, type: 3}
+  m_Name: '[Style] Wax Seal'
+  m_EditorClassIdentifier: 
+  itemScheme: {fileID: 0}
+  itemPrefab: {fileID: 8631794640763482719, guid: af86c3d193c94cc4cb79a7264406ade1,
+    type: 3}
+  itemSprite: {fileID: 3286163911610860551, guid: a50bc2fd9422a4c479359b0fa9239f8e,
+    type: 3}
+  itemPreview: {fileID: 0}
+  itemPrice: 10000
+  itemName: WAX SEAL
+  itemDescription: One seal of approval, approved!
+  itemType: 0

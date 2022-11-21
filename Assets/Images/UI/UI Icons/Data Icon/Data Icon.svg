@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\UI\UI Icons\Data Icon\Data Icon (1000x1000).png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960"
+   sodipodi:docname="Data Icon.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2"
+     inkscape:cx="186.05398"
+     inkscape:cy="29.220266"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <g
+       id="g4540">
+      <path
+         id="rect4519"
+         transform="translate(0,952.36216)"
+         d="M 0 0 L 0 100 L 100 100 L 100 20 L 80 0 L 75 0 L 75 30 C 75 32.769988 72.769988 35 70 35 L 35 35 C 32.230012 35 30 32.769988 30 30 L 30 0 L 0 0 z M 10 45 L 90 45 L 90 90 L 10 90 L 10 45 z "
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <rect
+         ry="4.9999776"
+         y="957.36218"
+         x="60"
+         height="25"
+         width="10"
+         id="rect4526"
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+      <path
+         id="rect4528"
+         transform="translate(0,952.36216)"
+         d="M 17.5 50 C 16.115 50 15 51.115 15 52.5 C 15 53.885 16.115 55 17.5 55 L 82.5 55 C 83.885 55 85 53.885 85 52.5 C 85 51.115 83.885 50 82.5 50 L 17.5 50 z M 17.5 60 C 16.115 60 15 61.115 15 62.5 C 15 63.885 16.115 65 17.5 65 L 77.5 65 C 78.885 65 80 63.885 80 62.5 C 80 61.115 78.885 60 77.5 60 L 17.5 60 z M 17.5 70 C 16.115 70 15 71.115 15 72.5 C 15 73.885 16.115 75 17.5 75 L 72.5 75 C 73.885 75 75 73.885 75 72.5 C 75 71.115 73.885 70 72.5 70 L 17.5 70 z "
+         style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:15;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal" />
+    </g>
+  </g>
+</svg>

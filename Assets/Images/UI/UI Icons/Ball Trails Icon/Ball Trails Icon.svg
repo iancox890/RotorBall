@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\UI\UI Icons\Ball Trails Icon\Ball Trails Icon (1000x1000).png"
+   inkscape:export-xdpi="960"
+   inkscape:export-ydpi="960"
+   sodipodi:docname="Ball Trails Icon.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 50 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="100 : 50 : 1"
+       inkscape:persp3d-origin="50 : 33.333333 : 1"
+       id="perspective814" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="87.824864"
+     inkscape:cy="39.01048"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 50 0 A 50 50 0 0 0 0 50 A 50 50 0 0 0 50 100 A 50 50 0 0 0 100 50 A 50 50 0 0 0 50 0 z M 75.410156 17.474609 A 7.50075 7.50075 0 0 1 77.320312 32.134766 C 64.569213 36.284206 55.950467 39.673266 50.736328 42.259766 C 50.383018 42.435036 50.191372 42.590162 49.875 42.763672 C 50.916797 43.134592 51.403466 43.407146 52.564453 43.785156 C 55.907468 44.873636 59.444258 45.908658 62.828125 47.710938 C 64.520059 48.612037 66.318796 49.645872 67.984375 51.951172 C 69.649954 54.256472 70.373779 58.661797 69.113281 61.654297 C 66.592286 67.639497 62.307435 69.201256 55.898438 72.097656 C 49.489439 74.994056 40.347868 78.228047 27.15625 82.185547 A 7.50075 7.50075 0 1 1 22.845703 67.818359 C 35.468975 64.031359 44.012841 60.957219 49.347656 58.574219 C 48.756319 58.375819 48.53673 58.247075 47.921875 58.046875 C 44.534437 56.943975 40.933394 55.860188 37.488281 53.929688 C 35.765725 52.964387 33.940182 51.812881 32.337891 49.488281 C 30.735599 47.163691 30.020968 43.057901 31.123047 40.050781 C 33.327205 34.036541 37.686774 31.988866 44.070312 28.822266 C 50.453852 25.655676 59.550893 22.141481 72.679688 17.869141 A 7.50075 7.50075 0 0 1 75.410156 17.474609 z "
+       transform="translate(0,952.36216)"
+       id="path817" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Needle"
+     sodipodi:insensitive="true"
+     style="display:none">
+    <path
+       inkscape:connector-curvature="0"
+       id="path843"
+       d="M 76.811664,1024.8598 53.214127,998.53208 a 5,5 0 0 0 -7.044319,0.61618 5,5 0 0 0 0.616295,7.04424 z"
+       style="opacity:0.98999999;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:20;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       transform="translate(0,-952.36216)" />
+  </g>
+</svg>

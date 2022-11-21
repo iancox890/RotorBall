@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bd8b5dbc8fd2246b9b7c9256526bdf, type: 3}
+  m_Name: '[Explosion] Bouncy Balls'
+  m_EditorClassIdentifier: 
+  itemScheme: {fileID: 0}
+  itemPrefab: {fileID: 2221495190102704942, guid: fac1131d21c2164448c63128dec2a9cb,
+    type: 3}
+  itemSprite: {fileID: 0}
+  itemPreview: {fileID: 2221495190102704942, guid: 769f1f77ca2922e489f3ac73306ae585,
+    type: 3}
+  itemPrice: 10000
+  itemName: BOUNCY BALLS
+  itemDescription: Not easy to catch
+  itemType: 2

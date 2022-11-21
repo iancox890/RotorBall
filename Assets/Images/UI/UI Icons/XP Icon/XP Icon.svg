@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="100"
+   height="100"
+   viewBox="0 0 100 100"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:export-filename="E:\Pictures\Game Development\Projects\RotorBall\UI\UI Icons\XP Icon\XP Icon (500x500).png"
+   inkscape:export-xdpi="480"
+   inkscape:export-ydpi="480"
+   sodipodi:docname="XP Icon.svg">
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 50 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="100 : 50 : 1"
+       inkscape:persp3d-origin="50 : 33.333333 : 1"
+       id="perspective814" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="4"
+     inkscape:cx="53.488668"
+     inkscape:cy="8.3083408"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4136" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-952.36216)">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.05599999;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
+       d="M 0 0 L 0 100 L 100 100 L 100 0 L 0 0 z M 20.369141 35.648438 L 31.236328 35.648438 L 36.115234 42.865234 L 40.873047 35.648438 L 51.287109 35.648438 L 41.324219 49.507812 L 51.902344 64.351562 L 40.832031 64.351562 L 35.869141 56.683594 L 31.03125 64.351562 L 20 64.351562 L 30.375 49.876953 L 20.369141 35.648438 z M 53.099609 35.648438 L 66.919922 35.648438 C 74.916163 35.648437 80 39.829625 80 46.472656 C 80 53.115687 74.916163 57.298828 66.919922 57.298828 L 62.777344 57.298828 L 62.777344 64.351562 L 53.099609 64.351562 L 53.099609 35.648438 z M 62.777344 43.111328 L 62.777344 49.835938 L 66.304688 49.835938 C 68.970101 49.835938 70.240234 48.563981 70.240234 46.472656 C 70.240234 44.381332 68.970101 43.111328 66.304688 43.111328 L 62.777344 43.111328 z "
+       id="rect821"
+       transform="translate(0,952.36216)" />
+    <g
+       aria-label="XP"
+       transform="matrix(1.0251591,0,0,1.0251591,-0.1751307,948.27093)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot823" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="XP Duplicate"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <flowRoot
+       transform="matrix(1.0251591,0,0,1.0251591,-14.675131,22.65877)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:125%;font-family:Montserrat;-inkscape-font-specification:Montserrat;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="flowRoot838"
+       xml:space="preserve"><flowRegion
+         id="flowRegion834"><rect
+           y="30"
+           x="20"
+           height="50"
+           width="100"
+           id="rect832" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:'Montserrat Heavy';fill:#ffffff"
+         id="flowPara836">XP</flowPara></flowRoot>  </g>
+</svg>

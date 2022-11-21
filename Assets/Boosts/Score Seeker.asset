@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7b394ff7224e01e44803a7c388da52ef, type: 3}
+  m_Name: Score Seeker
+  m_EditorClassIdentifier: 
+  boosts:
+  - 0.1
+  - 0.12
+  - 0.14
+  - 0.16
+  - 0.18
+  - 0.2
+  - 0.22
+  - 0.24
+  - 0.26
+  - 0.28
+  - 0.3
+  rpForUpgrade: 8813000010270000983a0000204e0000a861000030750000b8880000409c0000c8af000050c30000
+  rpForStock: 100
+  title: Score Seeker
+  description: The current ball earns <percent> more score than normal.
+  icon: {fileID: 3286163911610860551, guid: 4fe5573702cbf414285aa7bbf8ed42ce, type: 3}

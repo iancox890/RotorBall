@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23bd8b5dbc8fd2246b9b7c9256526bdf, type: 3}
+  m_Name: '[Explosion] Melon Madness'
+  m_EditorClassIdentifier: 
+  itemScheme: {fileID: 0}
+  itemPrefab: {fileID: 2221495190102704942, guid: f8801e833603f744c8939eabb1c50838,
+    type: 3}
+  itemSprite: {fileID: 3286163911610860551, guid: 77d1af9662f22e6499ff7ffa8cbacf3c,
+    type: 3}
+  itemPreview: {fileID: 2221495190102704942, guid: 68d2aa12185ce5e41bd1f7fbcf84d42f,
+    type: 3}
+  itemPrice: 10000
+  itemName: MELON MADNESS
+  itemDescription: Why did the melon go crazy? They lost their rind!
+  itemType: 2
